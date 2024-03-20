@@ -1,0 +1,8 @@
+PatientId,PatientName,Gender,WardType
+1,Alexa,F,Normal
+2,Rithik,M,Normal
+3,Aisha,F,ICU
+4,Aisha,F,Normal
+5,Dhana,F,Normal
+6,Dinesh,M,ICU
+7,Srinika,F,Normal
